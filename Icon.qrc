@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>FpwtnJLnBaU.ico</file>
+    <file>FpwtnJLnBaU.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>Фон.png</file>
+    <file>no_image-800x640.png</file>
+    <file>6567285924.png</file>
+  </qresource>
+</RCC>
